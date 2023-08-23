@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94762000126', 'Noziy Official²⁰²³', true],
-  ['94762000126', 'Noziy Official²⁰²³', true], 
+  ['243993366258', '𝙇', true],
+  ['243993366258', '𝐑𝐘𝐔𝐙𝐀𝐊𝐈', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['94762000126','94762000126'] 
-global.prems = ['94762000126', '94762000126', '94762000126']
+global.mods = ['243993366258','94762000126'] 
+global.prems = ['243993366258', '94762000126', '94762000126']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,7 +47,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Princess Noziy'
+global.botname = '𝐑𝐘𝐔𝐙𝐀𝐊𝐈'
 global.premium = 'true'
 global.packname = 'Princess Noziy Created By Noziy Official²⁰²³' 
 global.author = '💝 Noziy Official²⁰²³ 💝' 
